@@ -1,0 +1,26 @@
+{
+  "name": "jacks",
+  "version": "1.0.0",
+  "description": "Poker Hand Evaluator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheran-Senthil/Jacks.js.git"
+  },
+  "keywords": [
+    "poker",
+    "hand-evaluator"
+  ],
+  "author": "Cheran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cheran-Senthil/Jacks.js/issues"
+  },
+  "homepage": "https://github.com/Cheran-Senthil/Jacks.js#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
