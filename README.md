@@ -2,7 +2,8 @@
 [![Build Status](https://travis-ci.com/Cheran-Senthil/Jacks.js.svg?token=5TaxPzye68Ye2xzmwxJu&branch=master)](https://travis-ci.com/Cheran-Senthil/Jacks.js)
 
 # Jacks
-A Node.js library for fast poker hand evaluation.
+
+A Node.js library for fast poker hand evaluation, a Python implementation of this is available [here](https://github.com/Cheran-Senthil/Jacks).
 
 ## Installation
 
