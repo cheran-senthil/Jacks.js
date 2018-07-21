@@ -24,6 +24,7 @@
     "standard": "^11.0.1"
   },
   "dependencies": {
-    "chalk": "^2.4.1"
+    "chalk": "^2.4.1",
+    "iter-tools": "^5.0.4"
   }
 }
