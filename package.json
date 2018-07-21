@@ -1,5 +1,5 @@
 {
-  "name": "jacks",
+  "name": "poker-jacks",
   "version": "1.0.0",
   "description": "Poker Hand Evaluator",
   "main": "lib/index.js",
